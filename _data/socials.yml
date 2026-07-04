@@ -6,10 +6,12 @@ x_username: liyanyang330 # your X/Twitter username
 # linkedin_username: "%E5%98%89%E8%BD%A9-%E9%82%B9-bb3439341" # your LinkedIn username
 # inspirehep_id: 1010907 # Inspire HEP author ID
 # rss_icon: true # comment this line to hide the RSS icon
-arxiv_id: liyanyang330
-orcid_id: 0009-0009-9616-7692 # your ORCID ID
 scholar_userid: l7R2_SgAAAAJ # your Google Scholar ID
 # Custom Socials
+arxiv_social:
+  logo: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/arxiv.svg
+  title: arXiv
+  url: https://arxiv.org/a/liyanyang330.html
 # bilibili_social:
 #  logo: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bilibili.svg
 #  title: Bilibili
