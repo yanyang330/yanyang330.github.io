@@ -7,26 +7,25 @@ cv:
   summary: Undergraduate in Mathematics at Southeast University.
   social_networks:
     - network: X
-      username: SmartPig_Joe
+      username: liyanyang330
     - network: Google Scholar
-      username: YE6iiwUAAAAJ
+      username: l7R2_SgAAAAJ
 
   address:
     city: Nanjing
     region: Jiangsu
-    postalCode: 210000
     countryCode: CN
 
   sections:
     Education:
-      - institution: Xi'an Jiaotong University
-        location: Xi'an, China
-        area: Mathematics and Statistics
+      - institution: Southeast University
+        location: Nanjing, China
+        area: Mathematics
         studyType: Undergraduate Student
-        start_date: "2024"
+        start_date: "2023"
         end_date: Present
         highlights:
-          - School of Mathematics and Statistics.
+          - School of Mathematics.
           - Research interests include deep learning theory, optimization, mechanistic interpretability, and scaling laws.
 
     Experience:
