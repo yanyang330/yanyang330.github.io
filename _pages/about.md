@@ -13,8 +13,8 @@ profile:
   more_info: >
     <div class="profile-affiliations">
       <p>
-        <span class="affiliation-unit">School of Mathematics and Statistics</span>
-        <span class="affiliation-place">Xi'an Jiaotong University</span>
+        <span class="affiliation-unit">School of Mathematics</span>
+        <span class="affiliation-place">Southeast University</span>
       </p>
     </div>
 
