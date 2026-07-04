@@ -12,6 +12,10 @@ arxiv_social:
   logo: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/arxiv.svg
   title: arXiv
   url: https://arxiv.org/a/liyanyang330.html
+orcid_social:
+  logo: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/orcid.svg
+  title: ORCID
+  url: https://orcid.org/0009-0009-9616-7692
 # bilibili_social:
 #  logo: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bilibili.svg
 #  title: Bilibili
