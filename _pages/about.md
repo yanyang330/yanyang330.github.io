@@ -1,10 +1,10 @@
 ---
 layout: about
 title: About
-description: Jiaxuan Zou's academic homepage, with research notes and publications on mechanistic interpretability, deep learning theory, optimization, and scaling laws.
+description: Yanyang Li's academic homepage, with research notes and publications on mechanistic interpretability, deep learning theory, optimization, and scaling laws.
 keywords: academic homepage, mechanistic interpretability, deep learning theory, optimization, scaling laws
 permalink: /
-subtitle: Undergraduate Student @ XJTU | Research Intern @ ByteDance Seed Pre-training
+subtitle: Undergraduate Student @ SEU
 
 profile:
   align: right
