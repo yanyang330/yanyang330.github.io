@@ -3,29 +3,29 @@
 # -----------------------------------------------------------------------------
 
 future: true # Allow future posts to be published
-title: Jiaxuan Zou # the website title (if blank, full name will be used instead)
-first_name: Jiaxuan
+title: Yanyang Li # the website title (if blank, full name will be used instead)
+first_name: Yanyang
 middle_name:
-last_name: Zou
+last_name: Li
 keywords: mechanistic interpretability, deep learning theory, optimization, scaling laws, academic homepage, machine learning research
-x_username: SmartPig_Joe
+x_username: liyanyang330
 
 contact_note: >
   The best way to reach me is via email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Jiaxuan Zou (邹嘉轩)'s academic homepage.
+  Yanyang Li's academic homepage.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.png # image file in assets/img used as the favicon
 
-url: https://jiaxuanzou0714.github.io # the base hostname & protocol for your site
+url: https://yanyang330.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
-repository: JiaxuanZou0714/jiaxuanzou0714.github.io
+repository: yanyang330/yanyang330.github.io
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
-back_to_top: false # set to false to disable the back to top button
+back_to_top: true # set to false to disable the back to top button
 
 # -----------------------------------------------------------------------------
 # Theme
@@ -81,7 +81,7 @@ max_width: 930px
 # see https://schema.org/docs/faq.html for more information
 serve_og_meta: true # Include Open Graph meta tags in the HTML head
 serve_schema_org: true # Include Schema.org in the HTML head
-og_image: https://jiaxuanzou0714.github.io/assets/img/social-preview.png # The site-wide (default for all links) Open Graph preview image
+# og_image: https://jiaxuanzou0714.github.io/assets/img/social-preview.png # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -90,20 +90,20 @@ og_image: https://jiaxuanzou0714.github.io/assets/img/social-preview.png # The s
 # For Google Analytics, see https://support.google.com/analytics/answer/10447272?hl=en&ref_topic=14088998&sjid=5129943941510317771-SA#zippy=%2Cgoogle-sites
 # and follow the instructions for Google Sites. You will need to create a Google Analytics property and copy the Google tag ID.
 google_analytics: # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
-goatcounter_analytics: jiaxuanzou # your GoatCounter code (for https://YOURCODE.goatcounter.com)
+goatcounter_analytics: yanyangli # your GoatCounter code (for https://YOURCODE.goatcounter.com)
 cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
-google_site_verification: "6008LP9GeEsSEbJ0uBNp0GaBeYKF9egqGOamp3RtjOg" # your google-site-verification ID (Google Search Console)
+# google_site_verification: "6008LP9GeEsSEbJ0uBNp0GaBeYKF9egqGOamp3RtjOg" # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: "Jiaxuan's Blog" # blog_name will be displayed in your blog page
+blog_name: "Yanyang's Blog" # blog_name will be displayed in your blog page
 blog_description: "Notes on machine learning and optimization"
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
@@ -120,7 +120,7 @@ related_blog_posts:
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
 giscus:
-  repo: JiaxuanZou0714/jiaxuanzou0714.github.io
+  repo: yanyang330/yanyang330.github.io
   repo_id: R_kgDOPvg-0Q
   category: Announcements # name of the category under which discussions will be created
   category_id: DIC_kwDOPvg-0c4C1wDF
