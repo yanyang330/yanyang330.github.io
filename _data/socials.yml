@@ -28,6 +28,14 @@ facebook_social:
   logo: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg
   title: Facebook
   url: https://www.facebook.com/profile.php?id=61575871390791
+instagram_social:
+  logo: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg
+  title: Instagram
+  url: https://www.instagram.com/liyanyang1219
+mastodon_social:
+  logo: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mastodon.svg
+  title: Mastodon
+  url: https://mastodon.social/@liyanyang1219
 # bilibili_social:
 #  logo: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bilibili.svg
 #  title: Bilibili
