@@ -1,0 +1,208 @@
+cv:
+  name: Jiaxuan Zou
+  label: Undergraduate Student in Mathematics and Statistics
+  email: 3140143497@qq.com
+  website: https://jiaxuanzou0714.github.io
+  image: headshot.png
+  summary: Undergraduate in Mathematics and Statistics at Xi'an Jiaotong University and research intern at the Gaoling School of Artificial Intelligence, Renmin University of China. My work focuses on mechanistic interpretability, training dynamics, optimizer design, and scaling laws.
+
+  social_networks:
+    - network: X
+      username: SmartPig_Joe
+    - network: Google Scholar
+      username: YE6iiwUAAAAJ
+
+  address:
+    city: Xi'an
+    region: Shaanxi
+    countryCode: CN
+
+  sections:
+    Education:
+      - institution: Xi'an Jiaotong University
+        location: Xi'an, China
+        area: Mathematics and Statistics
+        studyType: Undergraduate Student
+        start_date: "2024"
+        end_date: Present
+        highlights:
+          - School of Mathematics and Statistics.
+          - Research interests include deep learning theory, optimization, mechanistic interpretability, and scaling laws.
+
+    Experience:
+      - company: Gaoling School of Artificial Intelligence, Renmin University of China
+        position: Research Intern
+        location: Beijing, China
+        url: http://ai.ruc.edu.cn/
+        summary: Advised by Prof. Yong Liu.
+        highlights:
+          - Work on mechanistic interpretability, deep learning theory, optimizer design, and scaling laws.
+          - Co-authored preprints on linear attention, neural scaling laws, latent chain-of-thought, and matrix optimizer design.
+
+      - company: ScalingOpt
+        position: Co-maintainer
+        location: Remote
+        url: https://tianshijing.github.io/ScalingOpt/
+        start_date: "2026-04"
+        end_date: Present
+        summary: A project on optimizer design for large language model training.
+        highlights:
+          - Work on the relation among optimizer design, model architecture, and training configuration under scaling-law regimes.
+          - Help maintain the optimizer library, including the Nora optimizer entry.
+
+      - company: Tsinghua-affiliated AI startup
+        position: AI Technical Consultant
+        location: Beijing, China
+        highlights:
+          - Consult on "AI + K-12 Education" products developed with the Beijing Dongcheng District Education Commission.
+
+      - company: Xi'an Jiaotong University Deep Learning Seminar
+        position: Founder and Organizer
+        location: Xi'an, China
+        start_date: "2024-09"
+        end_date: Present
+        highlights:
+          - Started an undergraduate deep learning seminar at Xi'an Jiaotong University.
+          - The seminar later attracted more than one thousand participants from across China and led to research collaborations.
+
+    Projects:
+      - name: ScalingOpt
+        url: https://tianshijing.github.io/ScalingOpt/
+        summary: A discussion platform and benchmark project for optimizer design in large language model training.
+        highlights:
+          - Co-maintainer.
+          - Focuses on optimizer design, model architecture, and training configuration under the scaling-law paradigm.
+          - Nora has been included in the ScalingOpt optimizer library.
+
+    Publications:
+      - title: Kaczmarz Linear Attention
+        authors:
+          - Jiaxuan Zou
+          - Ruifeng Ren
+          - Yong Liu
+        publisher: Under Review
+        date: "2026"
+        url: https://arxiv.org/abs/2605.08587
+        summary: Jiaxuan Zou, Ruifeng Ren, and Yong Liu. arXiv:2605.08587.
+
+      - title: "Nora: Normalized Orthogonal Row Alignment for Scalable Matrix Optimizer"
+        authors:
+          - Jinghui Yuan
+          - Jiaxuan Zou
+          - Shuo Wang
+          - Yong Liu
+          - Feiping Nie
+        publisher: Under Review
+        date: "2026"
+        url: https://arxiv.org/abs/2605.03769
+        summary: Jinghui Yuan, Jiaxuan Zou, Shuo Wang, Yong Liu, and Feiping Nie. arXiv:2605.03769.
+
+      - title: "Effective Frontiers: A Unification of Neural Scaling Laws"
+        authors:
+          - Jiaxuan Zou
+          - Zixuan Gong
+          - Ye Su
+          - Huayi Tang
+          - Yong Liu
+        publisher: Under Review
+        date: "2026"
+        url: https://arxiv.org/abs/2602.02593
+        summary: Jiaxuan Zou, Zixuan Gong, Ye Su, Huayi Tang, and Yong Liu. arXiv:2602.02593.
+
+      - title: Capabilities and Fundamental Limits of Latent Chain-of-Thought
+        authors:
+          - Jiaxuan Zou
+          - Yaozhong Xiong
+          - Yong Liu
+        publisher: Under Review
+        date: "2026"
+        url: https://arxiv.org/abs/2602.01148
+        summary: Jiaxuan Zou, Yaozhong Xiong, and Yong Liu. arXiv:2602.01148.
+
+      - title: "Statistical MIA: Rethinking Membership Inference Attack for Reliable Unlearning Auditing"
+        authors:
+          - Jialong Sun
+          - Zeming Wei
+          - Jiaxuan Zou
+          - Jiacheng Gong
+          - Guanheng Wang
+          - Chengyang Dong
+          - Jialong Li
+          - Bo Liu
+        publisher: Under Review
+        date: "2026"
+        url: https://arxiv.org/abs/2602.01150
+        summary: Jialong Sun, Zeming Wei, Jiaxuan Zou, Jiacheng Gong, Guanheng Wang, Chengyang Dong, Jialong Li, and Bo Liu. arXiv:2602.01150.
+
+      - title: "FreIE: Low-Frequency Spectral Bias in Neural Networks for Time-Series Tasks"
+        authors:
+          - Jialong Sun
+          - Xinpeng Ling
+          - Jiaxuan Zou
+          - Jiawen Kang
+          - Kejia Zhang
+        publisher: IEEE ICDM
+        date: "2025"
+        url: https://arxiv.org/abs/2510.25800
+        summary: Jialong Sun, Xinpeng Ling, Jiaxuan Zou, Jiawen Kang, and Kejia Zhang.
+
+      - title: Mamba-Driven and Feature-Fused U-Net for Automatic Seismic Horizon Interpretation
+        authors:
+          - Tian Zhang
+          - Jiaju He
+          - Naihao Liu
+          - Jiaxuan Zou
+          - Yongxiang Jiang
+        publisher: IEEE Transactions on Geoscience and Remote Sensing
+        date: "2026"
+        url: https://doi.org/10.1109/TGRS.2026.3660880
+        summary: Tian Zhang, Jiaju He, Naihao Liu, Jiaxuan Zou, and Yongxiang Jiang.
+
+      - title: Seismic Horizon Picking Using Channel-Independent Multi-Scale UNet
+        authors:
+          - Jiaxuan Zou
+          - Naihao Liu
+          - Tian Zhang
+          - Jiaju He
+          - Tao Li
+          - Jinghuai Gao
+        publisher: Under Review
+        date: "2024"
+        summary: Jiaxuan Zou, Naihao Liu, Tian Zhang, Jiaju He, Tao Li, and Jinghuai Gao.
+
+    Research Interests:
+      - bullet: Mechanistic interpretability of LLMs.
+      - bullet: Training dynamics of finite-width neural networks.
+      - bullet: Optimizer design for LLM pre-training.
+      - bullet: Scaling laws and their failure modes.
+      - bullet: Deep learning theory and optimization.
+
+    Skills:
+      - name: Research areas
+        icon: fa-solid fa-magnifying-glass
+        keywords:
+          - Mechanistic interpretability
+          - Deep learning theory
+          - Optimization
+          - Scaling laws
+          - Training dynamics
+      - name: Mathematical tools
+        icon: fa-solid fa-square-root-variable
+        keywords:
+          - Optimization
+          - Statistics
+          - Dynamical systems
+          - Mathematical modeling
+      - name: Applied AI
+        icon: fa-solid fa-microchip
+        keywords:
+          - LLM pre-training
+          - Matrix optimizers
+          - Linear attention
+          - AI education products
+
+    Languages:
+      - name: Chinese
+        summary: Native
+      - name: English
+        summary: Working proficiency
