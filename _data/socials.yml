@@ -16,6 +16,18 @@ orcid_social:
   logo: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/orcid.svg
   title: ORCID
   url: https://orcid.org/0009-0009-9616-7692
+bluesky_social:
+  logo: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bluesky.svg
+  title: Bluesky
+  url: https://bsky.app/profile/liyanyang.bsky.social
+discord_social:
+  logo: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg
+  title: Discord
+  url: https://discord.gg/Q7PGrFyj
+facebook_social:
+  logo: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg
+  title: Facebook
+  url: https://www.facebook.com/profile.php?id=61575871390791
 # bilibili_social:
 #  logo: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bilibili.svg
 #  title: Bilibili
