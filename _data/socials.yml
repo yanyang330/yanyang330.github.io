@@ -8,7 +8,7 @@ x_username: liyanyang330 # your X/Twitter username
 # rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: l7R2_SgAAAAJ # your Google Scholar ID
 # Custom Socials
-arxiv_social:
+arxiv:
   logo: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/arxiv.svg
   title: arXiv
   url: https://arxiv.org/a/liyanyang330.html
