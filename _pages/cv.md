@@ -6,7 +6,7 @@ nav: true
 published: true
 nav_order: 5
 cv_format: rendercv # options: rendercv, jsonresume
-description: Academic CV for Jiaxuan Zou.
+description: Academic CV for Yanyang Li.
 toc:
   sidebar: left
 ---
