@@ -9,10 +9,7 @@ x:
   logo: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg
   title: X
   url: https://x.com/liyanyang330
-google_scholar: 
-  logo: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/google-scholar.svg
-  title: Google Scholar
-  url: https://scholar.google.com/citations?user=l7R2_SgAAAAJ&hl=zh-CN
+scholar_userid: l7R2_SgAAAAJ
 # Custom Socials
 arxiv:
   logo: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/arxiv.svg
