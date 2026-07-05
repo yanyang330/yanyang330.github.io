@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-description: Yanyang Li's academic homepage, with research notes and publications on mechanistic interpretability, deep learning theory, optimization, and scaling laws.
+description: Yanyang Li's academic homepage.
 keywords: academic homepage, mechanistic interpretability, deep learning theory, optimization, scaling laws
 permalink: /
 subtitle: Undergraduate Student @ SEU
