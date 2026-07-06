@@ -74,15 +74,15 @@ cv:
           - Nora has been included in the ScalingOpt optimizer library.
 
     Publications:
-      - title: Kaczmarz Linear Attention
+      - title: Optimal bounds for an Erdős problem on matching integers to distinct multiples
         authors:
-          - Jiaxuan Zou
-          - Ruifeng Ren
-          - Yong Liu
+          - Wouter van Doorn
+          - Yanyang Li
+          - Quanyu Tang
         publisher: Under Review
         date: "2026"
-        url: https://arxiv.org/abs/2605.08587
-        summary: Jiaxuan Zou, Ruifeng Ren, and Yong Liu. arXiv:2605.08587.
+        url: https://arxiv.org/abs/2603.28636
+        summary: Wouter van Doorn, Yanyang Li, and Quanyu Tang. arXiv:2603.28636.
 
       - title: "Nora: Normalized Orthogonal Row Alignment for Scalable Matrix Optimizer"
         authors:
