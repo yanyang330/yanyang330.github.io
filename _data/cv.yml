@@ -74,60 +74,100 @@ cv:
           - Nora has been included in the ScalingOpt optimizer library.
 
     Publications:
-      - title: Optimal bounds for an Erdős problem on matching integers to distinct multiples
+      - title: Kaczmarz Linear Attention
         authors:
-          - Wouter van Doorn
-          - Yanyang Li
-          - Quanyu Tang
+          - Jiaxuan Zou
+          - Ruifeng Ren
+          - Yong Liu
         publisher: Under Review
         date: "2026"
-        url: https://arxiv.org/abs/2603.28636
-        summary: Wouter van Doorn, Yanyang Li, and Quanyu Tang. arXiv:2603.28636.
+        url: https://arxiv.org/abs/2605.08587
+        summary: Jiaxuan Zou, Ruifeng Ren, and Yong Liu. arXiv:2605.08587.
 
-      - title: Primitive sets and von Mangoldt chains: Erdős Problem# 1196 and beyond
+      - title: "Nora: Normalized Orthogonal Row Alignment for Scalable Matrix Optimizer"
         authors:
-          - Boris Alexeev 
-          - Kevin Barreto 
-          - Yanyang Li
-          - Jared Duker Lichtman
-          - Liam Price
-          - Jibran Iqbal Shah
-          - Quanyu Tang
-          - Terence Tao
+          - Jinghui Yuan
+          - Jiaxuan Zou
+          - Shuo Wang
+          - Yong Liu
+          - Feiping Nie
         publisher: Under Review
         date: "2026"
-        url: https://arxiv.org/abs/2605.00301
-        summary: Boris Alexeev, Kevin Barreto, Yanyang Li, Jared Duker Lichtman, Liam Price, Jibran Iqbal Shah, Quanyu Tang, and Terence Tao. arXiv:2605.00301.
+        url: https://arxiv.org/abs/2605.03769
+        summary: Jinghui Yuan, Jiaxuan Zou, Shuo Wang, Yong Liu, and Feiping Nie. arXiv:2605.03769.
 
-      - title: A proof of the Ashbaugh--Benguria conjecture for reciprocal sums of Neumann eigenvalues
+      - title: "Effective Frontiers: A Unification of Neural Scaling Laws"
         authors:
-          - Yixin He
-          - Yanyang Li
-          - Quanyu Tang
+          - Jiaxuan Zou
+          - Zixuan Gong
+          - Ye Su
+          - Huayi Tang
+          - Yong Liu
         publisher: Under Review
         date: "2026"
-        url: https://arxiv.org/abs/2606.08271
-        summary: Yixin He, Yanyang Li, and Quanyu Tang. arXiv:2606.08271.
+        url: https://arxiv.org/abs/2602.02593
+        summary: Jiaxuan Zou, Zixuan Gong, Ye Su, Huayi Tang, and Yong Liu. arXiv:2602.02593.
 
-      - title: A sharp fixed-volume product inequality for the first N nonzero Steklov eigenvalues
+      - title: Capabilities and Fundamental Limits of Latent Chain-of-Thought
         authors:
-          - Haiqi Zhang
-          - Quanyu Tang
-          - Yanyang Li
+          - Jiaxuan Zou
+          - Yaozhong Xiong
+          - Yong Liu
         publisher: Under Review
         date: "2026"
-        url: https://arxiv.org/abs/2606.22571
-        summary: Haiqi Zhang, Quanyu Tang, and Yanyang Li. arXiv:2606.22571.
+        url: https://arxiv.org/abs/2602.01148
+        summary: Jiaxuan Zou, Yaozhong Xiong, and Yong Liu. arXiv:2602.01148.
 
-      - title: The Ashbaugh--Benguria reciprocal-gap conjecture for Dirichlet eigenvalues
+      - title: "Statistical MIA: Rethinking Membership Inference Attack for Reliable Unlearning Auditing"
         authors:
-          - Yanyang Li
-          - Quanyu Tang
-          - Haiqi Zhang
+          - Jialong Sun
+          - Zeming Wei
+          - Jiaxuan Zou
+          - Jiacheng Gong
+          - Guanheng Wang
+          - Chengyang Dong
+          - Jialong Li
+          - Bo Liu
         publisher: Under Review
         date: "2026"
-        url: https://arxiv.org/abs/2607.01135
-        summary: Yanyang Li, Quanyu Tang, and Haiqi Zhang. arXiv:2607.01135.
+        url: https://arxiv.org/abs/2602.01150
+        summary: Jialong Sun, Zeming Wei, Jiaxuan Zou, Jiacheng Gong, Guanheng Wang, Chengyang Dong, Jialong Li, and Bo Liu. arXiv:2602.01150.
+
+      - title: "FreIE: Low-Frequency Spectral Bias in Neural Networks for Time-Series Tasks"
+        authors:
+          - Jialong Sun
+          - Xinpeng Ling
+          - Jiaxuan Zou
+          - Jiawen Kang
+          - Kejia Zhang
+        publisher: IEEE ICDM
+        date: "2025"
+        url: https://arxiv.org/abs/2510.25800
+        summary: Jialong Sun, Xinpeng Ling, Jiaxuan Zou, Jiawen Kang, and Kejia Zhang.
+
+      - title: Mamba-Driven and Feature-Fused U-Net for Automatic Seismic Horizon Interpretation
+        authors:
+          - Tian Zhang
+          - Jiaju He
+          - Naihao Liu
+          - Jiaxuan Zou
+          - Yongxiang Jiang
+        publisher: IEEE Transactions on Geoscience and Remote Sensing
+        date: "2026"
+        url: https://doi.org/10.1109/TGRS.2026.3660880
+        summary: Tian Zhang, Jiaju He, Naihao Liu, Jiaxuan Zou, and Yongxiang Jiang.
+
+      - title: Seismic Horizon Picking Using Channel-Independent Multi-Scale UNet
+        authors:
+          - Jiaxuan Zou
+          - Naihao Liu
+          - Tian Zhang
+          - Jiaju He
+          - Tao Li
+          - Jinghuai Gao
+        publisher: Under Review
+        date: "2024"
+        summary: Jiaxuan Zou, Naihao Liu, Tian Zhang, Jiaju He, Tao Li, and Jinghuai Gao.
 
     Research Interests:
       - bullet: Mechanistic interpretability of LLMs.
