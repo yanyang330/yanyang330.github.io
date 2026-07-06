@@ -74,7 +74,7 @@ cv:
           - Nora has been included in the ScalingOpt optimizer library.
 
     Publications:
-      - title: Optimal bounds for an Erdős problem on matching integers to distinct multiples
+      - title: "Optimal bounds for an Erdős problem on matching integers to distinct multiples"
         authors:
           - Wouter van Doorn
           - Yanyang Li
@@ -84,7 +84,7 @@ cv:
         url: https://arxiv.org/abs/2603.28636
         summary: Wouter van Doorn, Yanyang Li, and Quanyu Tang. arXiv:2603.28636.
 
-      - title: Primitive sets and von Mangoldt chains: Erdős Problem# 1196 and beyond
+      - title: "Primitive sets and von Mangoldt chains: Erdős Problem# 1196 and beyond"
         authors:
           - Boris Alexeev
           - Kevin Barreto
