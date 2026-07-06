@@ -84,17 +84,20 @@ cv:
         url: https://arxiv.org/abs/2603.28636
         summary: Wouter van Doorn, Yanyang Li, and Quanyu Tang. arXiv:2603.28636.
 
-      - title: "Nora: Normalized Orthogonal Row Alignment for Scalable Matrix Optimizer"
+      - title: Primitive sets and von Mangoldt chains: Erdős Problem# 1196 and beyond
         authors:
-          - Jinghui Yuan
-          - Jiaxuan Zou
-          - Shuo Wang
-          - Yong Liu
-          - Feiping Nie
+          - Boris Alexeev
+          - Kevin Barreto
+          - Yanyang Li
+          - Jared Duker Lichtman
+          - Liam Price
+          - Jibran Iqbal Shah
+          - Quanyu Tang
+          - Terence Tao
         publisher: Under Review
         date: "2026"
-        url: https://arxiv.org/abs/2605.03769
-        summary: Jinghui Yuan, Jiaxuan Zou, Shuo Wang, Yong Liu, and Feiping Nie. arXiv:2605.03769.
+        url: https://arxiv.org/abs/2605.00301
+        summary: Boris Alexeev, Kevin Barreto, Yanyang Li, Jared Duker Lichtman, Liam Price, Jibran Iqbal Shah, Quanyu Tang, and Terence Tao. arXiv:2605.00301.
 
       - title: "Effective Frontiers: A Unification of Neural Scaling Laws"
         authors:
