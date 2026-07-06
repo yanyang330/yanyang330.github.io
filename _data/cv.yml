@@ -133,42 +133,6 @@ cv:
         url: https://arxiv.org/abs/2602.01150
         summary: Jialong Sun, Zeming Wei, Jiaxuan Zou, Jiacheng Gong, Guanheng Wang, Chengyang Dong, Jialong Li, and Bo Liu. arXiv:2602.01150.
 
-      - title: "FreIE: Low-Frequency Spectral Bias in Neural Networks for Time-Series Tasks"
-        authors:
-          - Jialong Sun
-          - Xinpeng Ling
-          - Jiaxuan Zou
-          - Jiawen Kang
-          - Kejia Zhang
-        publisher: IEEE ICDM
-        date: "2025"
-        url: https://arxiv.org/abs/2510.25800
-        summary: Jialong Sun, Xinpeng Ling, Jiaxuan Zou, Jiawen Kang, and Kejia Zhang.
-
-      - title: Mamba-Driven and Feature-Fused U-Net for Automatic Seismic Horizon Interpretation
-        authors:
-          - Tian Zhang
-          - Jiaju He
-          - Naihao Liu
-          - Jiaxuan Zou
-          - Yongxiang Jiang
-        publisher: IEEE Transactions on Geoscience and Remote Sensing
-        date: "2026"
-        url: https://doi.org/10.1109/TGRS.2026.3660880
-        summary: Tian Zhang, Jiaju He, Naihao Liu, Jiaxuan Zou, and Yongxiang Jiang.
-
-      - title: Seismic Horizon Picking Using Channel-Independent Multi-Scale UNet
-        authors:
-          - Jiaxuan Zou
-          - Naihao Liu
-          - Tian Zhang
-          - Jiaju He
-          - Tao Li
-          - Jinghuai Gao
-        publisher: Under Review
-        date: "2024"
-        summary: Jiaxuan Zou, Naihao Liu, Tian Zhang, Jiaju He, Tao Li, and Jinghuai Gao.
-
     Research Interests:
       - bullet: Mechanistic interpretability of LLMs.
       - bullet: Training dynamics of finite-width neural networks.
