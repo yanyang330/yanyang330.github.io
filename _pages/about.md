@@ -8,7 +8,7 @@ subtitle: Undergraduate Student @ SEU
 
 profile:
   align: right
-  image: headshot.png
+  image: headshot2.png
   image_circular: true # crops the image to make it circular
   more_info: >
     <div class="profile-affiliations">
