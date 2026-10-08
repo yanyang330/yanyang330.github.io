@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://yanyang330.github.io/sitemap.xml
